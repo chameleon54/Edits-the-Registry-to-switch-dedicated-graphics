@@ -1,0 +1,1 @@
+the purpose of this script is that me and myfriend someitme experience weird thing that certain game seems like it refused to use Dediated gpu on laptop and just use the Igpu and its a hastle to tutor each time its happening
